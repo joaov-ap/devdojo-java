@@ -1,21 +1,25 @@
 package dev.joaov.javacore.Oexceptions.exception.test;
 
+import java.io.File;
+import java.io.IOException;
+
 public class ExceptionTest02 {
     public static void main(String[] args) {
-        divisao(5, 0);
+        try {
+            criarNovoArquivo();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 
-    /**
-     * @param a cant be zero
-     * @param b cant be zero
-     * @return int
-     * @throws IllegalArgumentException if a or b is zero.
-     * */
-    private static int divisao(int a, int b) {
-        if (a == 0 || b == 0) {
-            throw new IllegalArgumentException("Parameters can't be zero. There is no division by zero");
+    public static void criarNovoArquivo() throws IOException {
+        File file = new File("/home/joao/Documents/Java/devdojo-java/arquivo/test.txt");
+        try {
+            boolean isCriado = file.createNewFile();
+            System.out.println("Arquivo criado "+ isCriado);
+        } catch (IOException e) {
+            System.out.println(e);
+            throw e;
         }
-
-        return a / b;
     }
 }

@@ -12,7 +12,6 @@ public class ExceptionTest01 {
         File file = new File("/home/joao/Documents/Java/devdojo-java/arquivo/teste.txt");
         try {
             boolean isCreated = file.createNewFile();
-
             System.out.println("File created? "+isCreated);
         } catch (IOException e) {
             System.out.println(e);
