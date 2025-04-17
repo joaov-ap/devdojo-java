@@ -10,7 +10,7 @@ public class SimpleDateFormatTest01 {
         SimpleDateFormat sdf = new SimpleDateFormat(pattern);
         System.out.println(sdf.format(new Date()));
         try {
-            System.out.println(sdf.parse("Amsterdam 15 de February de 2021"));
+            System.out.println(sdf.parse ("Amsterdam 15 de February de 2021"));
         } catch (ParseException e) {
             throw new RuntimeException(e);
         }
