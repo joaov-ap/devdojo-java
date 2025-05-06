@@ -21,7 +21,7 @@ public class FileTest02 {
         for (String raw : list) {
             try (BufferedReader bufferedReader = new BufferedReader(new FileReader("pasta/"+raw))) {
                 String nome = bufferedReader.readLine();
-                String idade = bufferedReader.readLine();
+                String idade = bufferedReader.readLine().replaceAll("^\\.*?:\\s*\n", "");
                 pessoas.add(new Pessoa(nome, idade));
 
             } catch (IOException e) {
