@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27a505fe-c54c-4774-82f0-fbc0607deb01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devdojo-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "joaov-ap"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:joaov-ap/devdojo-java.git",
+    "accountId": "13b00661-5dbc-4c59-af58-24ebaffcd6e5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xmSyn8FH9erdqdaM7V3Jj1gl56" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PersonServiceTest01.executor": "Run",
+    "JUnit.DeveloperTest.instanceOf_ExecutesChildClassMethod_WhenObjectIsOfChildType.executor": "Run",
+    "JUnit.MangaTest.accessors_ReturnData_WhenInitialized.executor": "Run",
+    "JUnit.MangaTest.executor": "Run",
+    "JUnit.MangaTest.isRecoord_ReturnTrue_WhenCalledFromManga.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/joao/Documents/Java/devdojo-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dev.joaov.javacore.ZZHjunit.service" />
+      <recent name="dev.joaov.javacore.ZZHjunit.test" />
+      <recent name="dev.joaov.javacore.ZZHjunit.dominio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonServiceTest">
+    <configuration name="DeveloperTest.instanceOf_ExecutesChildClassMethod_WhenObjectIsOfChildType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="devdojo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.joaov.javacore.ZZHjunit.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.joaov.javacore.ZZHjunit.dominio" />
+      <option name="MAIN_CLASS_NAME" value="dev.joaov.javacore.ZZHjunit.dominio.DeveloperTest" />
+      <option name="METHOD_NAME" value="instanceOf_ExecutesChildClassMethod_WhenObjectIsOfChildType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="devdojo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.joaov.javacore.ZZHjunit.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.joaov.javacore.ZZHjunit.dominio" />
+      <option name="MAIN_CLASS_NAME" value="dev.joaov.javacore.ZZHjunit.dominio.MangaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangaTest.accessors_ReturnData_WhenInitialized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="devdojo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.joaov.javacore.ZZHjunit.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.joaov.javacore.ZZHjunit.dominio" />
+      <option name="MAIN_CLASS_NAME" value="dev.joaov.javacore.ZZHjunit.dominio.MangaTest" />
+      <option name="METHOD_NAME" value="accessors_ReturnData_WhenInitialized" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangaTest.isRecoord_ReturnTrue_WhenCalledFromManga" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="devdojo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.joaov.javacore.ZZHjunit.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.joaov.javacore.ZZHjunit.dominio" />
+      <option name="MAIN_CLASS_NAME" value="dev.joaov.javacore.ZZHjunit.dominio.MangaTest" />
+      <option name="METHOD_NAME" value="isRecoord_ReturnTrue_WhenCalledFromManga" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="devdojo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.joaov.javacore.ZZHjunit.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.joaov.javacore.ZZHjunit.service" />
+      <option name="MAIN_CLASS_NAME" value="dev.joaov.javacore.ZZHjunit.service.PersonServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonServiceTest" />
+        <item itemvalue="JUnit.MangaTest" />
+        <item itemvalue="JUnit.MangaTest.isRecoord_ReturnTrue_WhenCalledFromManga" />
+        <item itemvalue="JUnit.MangaTest.accessors_ReturnData_WhenInitialized" />
+        <item itemvalue="JUnit.DeveloperTest.instanceOf_ExecutesChildClassMethod_WhenObjectIsOfChildType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27a505fe-c54c-4774-82f0-fbc0607deb01" name="Changes" comment="" />
+      <created>1748542013977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748542013977</updated>
+      <workItem from="1748542016144" duration="812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
