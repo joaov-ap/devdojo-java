@@ -8,10 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="devdojo" />
+        <module name="devdojo-java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="devdojo-java" target="1.8" />
       <module name="my-app" target="1.8" />
       <module name="untitled" target="24" />
     </bytecodeTargetLevel>
